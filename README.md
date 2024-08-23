@@ -22,22 +22,30 @@ Pretrained Model: A directory containing the pre-trained model weights.
 
 1. BERT (Bidirectional Encoder Representations from Transformers)
 Accuracy: 49.0%
+
 F1-Score (weighted): 0.40
+
 Results: BERT, chosen for its state-of-the-art performance in NLP tasks, delivered limited accuracy due to the small dataset size.
 
-2. Logistic Regression
+3. Logistic Regression
 Accuracy: 49.0%
+
 F1-Score (weighted): 0.40
+
 Remarks: Logistic Regression served as a baseline model, providing competitive results despite its simplicity.
 
-3. Support Vector Machine (SVM)
+5. Support Vector Machine (SVM)
 Accuracy: 51.0%
+
 F1-Score (weighted): 0.39
+
 Remarks: SVM slightly outperformed Logistic Regression but struggled with the limited data.
 
-4. XGBoost
+7. XGBoost
 Accuracy: 49.0%
+
 F1-Score (weighted): 0.41
+
 Remarks: XGBoost, known for its strength in structured data, faced challenges due to the textual nature of the data and its limited size.
 
 ## Challenges and Limitations
