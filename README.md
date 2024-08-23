@@ -58,8 +58,13 @@ To build on this project, future efforts should focus on:
 ## Repository Contents
 
 DATA_PREPARATION: Scripts for data cleaning, tokenization, and normalization.
+
 MODEL_TRAINING: Training scripts for various models.
+
 RESULTS: Output files and performance metrics of the trained models.
+
 GRAPH_SCRIPTS: Code for generating visualizations.
+
 sentiment_model: Directory containing pre-trained model weights.
+
 TOKENIZATION: Tokenization scripts for text preprocessing.
