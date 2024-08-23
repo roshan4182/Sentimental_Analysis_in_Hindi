@@ -7,13 +7,18 @@ This project explores sentiment analysis in the Hindi language, aiming to classi
 ## Project Structure
 
 Data Preparation: Contains scripts and procedures for cleaning, normalizing, tokenizing, and preparing text data for modeling.
-Model Training: Scripts for training different machine learning models used in sentiment analysis.
-Results: A directory housing evaluation metrics and performance results of the models.
-Graph Scripts: Scripts for generating visualizations during the analysis.
-Pretrained Model: A directory containing the pre-trained model weights.
-Models Used
 
-## The following machine learning models were trained and evaluated on the dataset:
+Model Training: Scripts for training different machine learning models used in sentiment analysis.
+
+Results: A directory housing evaluation metrics and performance results of the models.
+
+Graph Scripts: Scripts for generating visualizations during the analysis.
+
+Pretrained Model: A directory containing the pre-trained model weights.
+
+## Models Used
+
+ The following machine learning models were trained and evaluated on the dataset:
 
 1. BERT (Bidirectional Encoder Representations from Transformers)
 Accuracy: 49.0%
