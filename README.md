@@ -1,4 +1,4 @@
-## Sentiment Analysis in Hindi Language
+## SENTIMENT_ANALYSIS_IN_HINDI_LANGUAGE
 
 ## Overview
 
@@ -21,27 +21,31 @@ Pretrained Model: A directory containing the pre-trained model weights.
  The following machine learning models were trained and evaluated on the dataset:
 
 1. BERT (Bidirectional Encoder Representations from Transformers)
+
 Accuracy: 49.0%
 
 F1-Score (weighted): 0.40
 
 Results: BERT, chosen for its state-of-the-art performance in NLP tasks, delivered limited accuracy due to the small dataset size.
 
-3. Logistic Regression
+2. Logistic Regression
+
 Accuracy: 49.0%
 
 F1-Score (weighted): 0.40
 
 Remarks: Logistic Regression served as a baseline model, providing competitive results despite its simplicity.
 
-5. Support Vector Machine (SVM)
+3. Support Vector Machine (SVM)
+
 Accuracy: 51.0%
 
 F1-Score (weighted): 0.39
 
 Remarks: SVM slightly outperformed Logistic Regression but struggled with the limited data.
 
-7. XGBoost
+4. XGBoost
+   
 Accuracy: 49.0%
 
 F1-Score (weighted): 0.41
